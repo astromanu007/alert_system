@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice"> 🚨 Alert! High strain detected. Immediate action required. 🚨 </Say>
+</Response>
